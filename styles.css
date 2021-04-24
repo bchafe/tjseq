@@ -7,7 +7,7 @@ body{
     background: #282828
 }
 
-.drumkit{
+.row1{
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
@@ -21,5 +21,5 @@ body{
     margin: 10px;   /* */
     flex: 1 0 calc(10px); /* 33% wide to fit 3 on each line. then extra 20px for slightly smaller to fit margins*/
     background: radial-gradient(#ffd9e4, #ffa1bb);  /* radial gradient for each pad */
-    border-radius: 4px;    /* adds round border */
+    /* border-radius: 4px;     adds round border */
 }
